@@ -9,7 +9,7 @@
 
 - 💬 I'm currently studying on **Trybe, where I finished Front-end module and will be starting Back-end**
 
-- 📫 Contact me at **leo.funa@gmail.com**
+- 📫 You can Contact me at **leo.funa@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/leonardofunabashi/](https://www.linkedin.com/in/leonardofunabashi/)
 
