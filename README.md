@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leonardo "Funa" Funabashi</h1>
 <h3 align="center">I'm a Front-end developer from Brazil</h3>
 
-- 🔭 I’m currently working on [CONSTRUCTIN](https://leofuna.github.io/)
+- 🔭 I’m currently working on [Git One Hub Project](https://github.com/LeoFuna/Git-One-Hub)
 
 - 🌱 I’m currently learning **React to create user interfaces on web pages using Redux to state management.**
 
