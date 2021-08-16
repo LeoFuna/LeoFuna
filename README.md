@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Leonardo "Funa" Funabashi</h1>
-<h3 align="center">I'm a Front-end developer from Brazil</h3>
 
 - 🔭 I’m currently working on [Netflix Clone](https://github.com/LeoFuna/Netflix-Clone)
 
