@@ -11,8 +11,6 @@
 
 - 📫 You can Contact me at **leo.funa@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/leonardofunabashi/](https://www.linkedin.com/in/leonardofunabashi/)
-
 - ⚡ Fun fact **I know how to play 4 instruments**
 
 <h3 align="left">Connect with me:</h3>
