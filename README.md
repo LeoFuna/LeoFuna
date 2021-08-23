@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [Netflix Clone](https://github.com/LeoFuna/Netflix-Clone)
 
-- 🌱 I’m currently learning **React to create user interfaces on web pages using Redux to state management.**
+- 🌱 I’m currently learning about **mySQL.**
 
 - 👨‍💻 All of my projects are available at [https://leofuna.github.io/](https://leofuna.github.io/)
 
