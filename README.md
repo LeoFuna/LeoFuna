@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [Netflix Clone](https://github.com/LeoFuna/Netflix-Clone)
 
-- 🌱 I’m currently learning about **mySQL.**
+- 🌱 I’m currently learning about **MySQL.**
 
 - 👨‍💻 All of my projects are available at [https://leofuna.github.io/](https://leofuna.github.io/)
 
