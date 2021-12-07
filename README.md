@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Leonardo "Funa" Funabashi</h1>
 
-- 🔭 I’m currently working on [Netflix Clone](https://github.com/LeoFuna/Netflix-Clone)
+- 🔭 I’m currently working on [Pense Rápido](https://github.com/LeoFuna/pense-rapido)
 
 - 🌱 I’m currently learning about **MongoDB.**
 
