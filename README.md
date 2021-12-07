@@ -4,9 +4,9 @@
 
 - 🌱 I’m currently learning about **MongoDB.**
 
-- 👨‍💻 All of my projects are available at [https://leofuna.github.io/](https://leofuna.github.io/)
+- 👨‍💻 All of my projects are available at [Meu Portfólio](https://leofuna.github.io/leofuna-portfolio/)
 
-- 💬 I'm currently studying on **Trybe, where I finished Front-end module and will be starting Back-end**
+- 💬 I'm currently studying on **Trybe, where I finished Front-end module and will finish Back-end on December 2021**
 
 - 📫 You can Contact me at **leo.funa@gmail.com**
 
