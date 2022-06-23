@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [Meu Portfólio](https://leofuna.github.io/leofuna-portfolio/)
 
-- 💬 I'm currently working on **a project that manage transporters of a logistic company.** 
+- 💬 I'm currently working on **a project that manages carriers for a logistics company.** 
 
 - 📫 You can Contact me at **leo.funa@gmail.com**
 
