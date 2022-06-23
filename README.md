@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Leonardo "Funa" Funabashi</h1>
 
-- 🔭 I’m currently working on [Pense Rápido](https://github.com/LeoFuna/pense-rapido)
+- 🔭 I’m currently working on [Nosso Louvor](https://github.com/LeoFuna/nosso-louvor)
 
-- 🌱 I’m currently learning about **MongoDB.**
+- 🌱 I’m currently learning about **NextJS and Typescrypt**
 
 - 👨‍💻 All of my projects are available at [Meu Portfólio](https://leofuna.github.io/leofuna-portfolio/)
 
-- 💬 I'm currently studying on **Trybe, where I finished Front-end module and will finish Back-end on December 2021**
+- 💬 I'm currently working on **a project that manage transporters of a logistic company.** 
 
 - 📫 You can Contact me at **leo.funa@gmail.com**
 
