@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Leonardo "Funa" Funabashi</h1>
 
-- 🔭 I’m currently working on [Nosso Louvor](https://github.com/LeoFuna/nosso-louvor)
+- 🔭 I’m currently working on [Handle Miles](https://github.com/LeoFuna/handle-miles)
 
 - 🌱 I’m currently learning about **NextJS and Typescrypt**
 
