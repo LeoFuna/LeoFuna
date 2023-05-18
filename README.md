@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Leonardo "Funa" Funabashi</h1>
 
-- 🔭 I’m currently working on [Handle Miles](https://github.com/LeoFuna/handle-miles)
+- 🔭 I'm currently working on [Who am I](https://github.com/LeoFuna/who-am-i)
 
-- 🌱 I’m currently learning about **NextJS and Typescrypt**
+- 🌱 I'm currently learning about **NextJS and Typescrypt**
 
 - 👨‍💻 All of my projects are available at [Meu Portfólio](https://leofuna.github.io/leofuna-portfolio/)
 
-- 💬 I'm currently working on **a project that manages carriers for a logistics company.** 
+- 💬 In my current job I'm working on **a project that manages carriers for a logistics company.** 
 
 - 📫 You can Contact me at **leo.funa@gmail.com**
 
