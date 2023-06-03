@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Leonardo "Funa" Funabashi</h1>
 
-- 🔭 I'm currently working on [Who am I](https://github.com/LeoFuna/who-am-i)
+- 🔭 I'm currently working on [Personal Finance](https://github.com/LeoFuna/personal-finance)
 
-- 🌱 I'm currently learning about **NextJS and Typescrypt**
+- 🌱 I'm currently learning about **Docker and Docker Compose**
 
 - 👨‍💻 All of my projects are available at [Meu Portfólio](https://leofuna.github.io/leofuna-portfolio/)
 
