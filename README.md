@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Leonardo "Funa" Funabashi</h1>
 
-- 🔭 I'm currently working on [Personal Finance](https://github.com/LeoFuna/personal-finance)
+- 🔭 I'm currently working on [Expense Manager](https://github.com/LeoFuna/expense-manager)
 
-- 🌱 I'm currently learning about **Docker and Docker Compose**
+- 🌱 I'm currently learning about **Next 13 app dir and Tailwind CSS**
 
 - 👨‍💻 All of my projects are available at [Meu Portfólio](https://leofuna.github.io/leofuna-portfolio/)
 
