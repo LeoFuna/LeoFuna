@@ -4,7 +4,7 @@
 
 - 🌱 I'm currently learning about **Next 13 app dir and Tailwind CSS**
 
-- 👨‍💻 All of my projects are available at [Meu Portfólio](https://leofuna.github.io/leofuna-portfolio/)
+- 👨‍💻 All of my projects are available at [Meu Portfólio](https://leo-funa.vercel.app/)
 
 - 💬 In my current job I'm working on **a project that manages carriers for a logistics company.** 
 
