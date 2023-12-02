@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Leonardo "Funa" Funabashi</h1>
 
-- 🔭 I'm currently working on [Expense Manager](https://github.com/LeoFuna/expense-manager)
+- 🔭 I'm currently working on [Chat with Anyone](https://github.com/LeoFuna/chat-with-anyone)
 
 - 🌱 I'm currently learning about **Next 13 app dir and Tailwind CSS**
 
